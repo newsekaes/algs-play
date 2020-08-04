@@ -5,9 +5,11 @@
 
 ### 排序
 
-1. [冒泡排序](./sort/pop.md)
-2. [选择排序](./sort/select.md)
-3. [插入排序](./sort/insert.md)
+1. [冒泡排序](sort/bubble.md)
+2. [选择排序](sort/select.md)
+3. [插入排序](sort/insert.md)
+4. [希尔排序](sort/shell.md)
+5. [归并排序](sort/merge.md)
 
 ### LeetCode
-1. [【#1】两数之和](./leetCode/1.md)
+1. [【#1】两数之和](leetCode/1.md)
