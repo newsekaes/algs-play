@@ -11,6 +11,7 @@
 4. [希尔排序](sort/shell.md)
 5. [归并排序](sort/merge.md)
 6. [快速排序](sort/quick.md)
+7. [堆排序](sort/heap.md)
 
 ### LeetCode
 1. [【#1】两数之和](leetCode/1.md)
