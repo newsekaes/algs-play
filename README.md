@@ -14,6 +14,7 @@
 7. [堆排序](sort/heap.md)
 8. [计数排序](sort/count.md)
 9. [桶排序](sort/bucket.md)
+10. [基数排序](sort/radix.md)
 
 ### LeetCode
 1. [【#1】两数之和](leetCode/1.md)
