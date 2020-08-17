@@ -18,3 +18,4 @@
 
 ### LeetCode
 1. [【#1】两数之和](leetCode/1.md)
+2. [【#2】两数之和](leetCode/2.md)
