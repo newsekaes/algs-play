@@ -25,3 +25,4 @@
 6. [【#6】Z字形变换](leetCode/6.md)
 7. [【#7】整数反转](leetCode/7.md)
 8. [【#8】字符串转换整数](leetCode/8.md)
+9. [【#9】回文数](leetCode/9.md)
