@@ -33,4 +33,5 @@
 14. [【#14】最长公共前缀](leetCode/14.md)
 62. [【#62】不同路径(Golang)](leetCode/dp/62/index.go)
 63. [【#63】不同路径2(Golang)](leetCode/dp/63/index.go)
+70. [【#70】爬楼梯(Golang)](leetCode/dp/70/index.go)
 509. [【#509】斐波那契(Golang)](leetCode/dp/509/index.go)
